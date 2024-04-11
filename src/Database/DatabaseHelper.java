@@ -17,7 +17,7 @@ public class DatabaseHelper {
     public static Connection getJDBCConnection() {
         String url = "jdbc:mysql://localhost:3306/quanlyktx";
         String user = "root";
-        String password = "12345";
+        String password = "111003";
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
             return DriverManager.getConnection(url, user, password);
