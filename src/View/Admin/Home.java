@@ -81,7 +81,7 @@ public class Home extends javax.swing.JFrame {
             }
         });
 
-        pictureBox1.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-admin-50.png"))); // NOI18N
+        pictureBox1.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-admin-50.png"))); // NOI18N
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 10)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
@@ -126,7 +126,7 @@ public class Home extends javax.swing.JFrame {
         jLabel3.setForeground(new java.awt.Color(255, 255, 255));
         jLabel3.setText("Trang chủ");
 
-        pictureBox2.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-home-page-64.png"))); // NOI18N
+        pictureBox2.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-home-page-64.png"))); // NOI18N
 
         javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
         jPanel4.setLayout(jPanel4Layout);
@@ -160,7 +160,7 @@ public class Home extends javax.swing.JFrame {
             }
         });
 
-        pictureBox3.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-business-group-80.png"))); // NOI18N
+        pictureBox3.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-business-group-80.png"))); // NOI18N
 
         jLabel6.setForeground(new java.awt.Color(255, 255, 255));
         jLabel6.setText("Sinh viên");
@@ -195,7 +195,7 @@ public class Home extends javax.swing.JFrame {
         jPanel6.setPreferredSize(new java.awt.Dimension(200, 38));
         jPanel6.setRequestFocusEnabled(false);
 
-        pictureBox4.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-room-64.png"))); // NOI18N
+        pictureBox4.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-room-64.png"))); // NOI18N
 
         jLabel7.setForeground(new java.awt.Color(255, 255, 255));
         jLabel7.setText("Phòng");
@@ -224,7 +224,7 @@ public class Home extends javax.swing.JFrame {
         jPanel7.setOpaque(false);
         jPanel7.setPreferredSize(new java.awt.Dimension(132, 38));
 
-        pictureBox5.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-verified-50.png"))); // NOI18N
+        pictureBox5.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-verified-50.png"))); // NOI18N
 
         jLabel8.setForeground(new java.awt.Color(255, 255, 255));
         jLabel8.setText("Xét duyệt");
@@ -255,7 +255,7 @@ public class Home extends javax.swing.JFrame {
         jPanel8.setOpaque(false);
         jPanel8.setPreferredSize(new java.awt.Dimension(132, 38));
 
-        pictureBox6.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-graph-report-script-80.png"))); // NOI18N
+        pictureBox6.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-graph-report-script-80.png"))); // NOI18N
 
         jLabel9.setForeground(new java.awt.Color(255, 255, 255));
         jLabel9.setText("Thống kê");
@@ -284,7 +284,7 @@ public class Home extends javax.swing.JFrame {
         jPanel9.setOpaque(false);
         jPanel9.setPreferredSize(new java.awt.Dimension(132, 38));
 
-        pictureBox7.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-schedule-50.png"))); // NOI18N
+        pictureBox7.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-schedule-50.png"))); // NOI18N
 
         jLabel10.setForeground(new java.awt.Color(255, 255, 255));
         jLabel10.setText("Lịch trực");
@@ -313,7 +313,7 @@ public class Home extends javax.swing.JFrame {
         jPanel10.setOpaque(false);
         jPanel10.setPreferredSize(new java.awt.Dimension(132, 38));
 
-        pictureBox8.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-notification-64.png"))); // NOI18N
+        pictureBox8.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-notification-64.png"))); // NOI18N
 
         jLabel11.setForeground(new java.awt.Color(255, 255, 255));
         jLabel11.setText("Thông báo");
@@ -342,7 +342,7 @@ public class Home extends javax.swing.JFrame {
         jPanel11.setOpaque(false);
         jPanel11.setPreferredSize(new java.awt.Dimension(132, 38));
 
-        pictureBox9.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-event-48.png"))); // NOI18N
+        pictureBox9.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-event-48.png"))); // NOI18N
 
         jLabel12.setForeground(new java.awt.Color(255, 255, 255));
         jLabel12.setText("Sự kiện");
@@ -371,7 +371,7 @@ public class Home extends javax.swing.JFrame {
         jPanel12.setOpaque(false);
         jPanel12.setPreferredSize(new java.awt.Dimension(132, 38));
 
-        pictureBox10.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-bill-64.png"))); // NOI18N
+        pictureBox10.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-bill-64.png"))); // NOI18N
 
         jLabel13.setForeground(new java.awt.Color(255, 255, 255));
         jLabel13.setText("Hóa đơn");
@@ -409,7 +409,7 @@ public class Home extends javax.swing.JFrame {
         jLabel14.setForeground(new java.awt.Color(255, 51, 0));
         jLabel14.setText("Đăng xuất");
 
-        pictureBox11.setImage(new javax.swing.ImageIcon(getClass().getResource("/View/Admin/icons8-logout-64 (1).png"))); // NOI18N
+        pictureBox11.setImage(new javax.swing.ImageIcon(getClass().getResource("/Image/icons8-logout-64 (1).png"))); // NOI18N
 
         javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
         jPanel5.setLayout(jPanel5Layout);

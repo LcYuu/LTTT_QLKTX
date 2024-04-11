@@ -181,7 +181,7 @@
             <Container class="Util.PictureBox" name="pictureBox1">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-admin-50.png"/>
+                  <Image iconType="3" name="/Image/icons8-admin-50.png"/>
                 </Property>
               </Properties>
 
@@ -261,7 +261,7 @@
             <Container class="Util.PictureBox" name="pictureBox2">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-home-page-64.png"/>
+                  <Image iconType="3" name="/Image/icons8-home-page-64.png"/>
                 </Property>
               </Properties>
 
@@ -313,7 +313,7 @@
             <Container class="Util.PictureBox" name="pictureBox3">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-business-group-80.png"/>
+                  <Image iconType="3" name="/Image/icons8-business-group-80.png"/>
                 </Property>
               </Properties>
 
@@ -381,7 +381,7 @@
             <Container class="Util.PictureBox" name="pictureBox4">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-room-64.png"/>
+                  <Image iconType="3" name="/Image/icons8-room-64.png"/>
                 </Property>
               </Properties>
 
@@ -439,7 +439,7 @@
             <Container class="Util.PictureBox" name="pictureBox5">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-verified-50.png"/>
+                  <Image iconType="3" name="/Image/icons8-verified-50.png"/>
                 </Property>
               </Properties>
 
@@ -494,7 +494,7 @@
             <Container class="Util.PictureBox" name="pictureBox6">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-graph-report-script-80.png"/>
+                  <Image iconType="3" name="/Image/icons8-graph-report-script-80.png"/>
                 </Property>
               </Properties>
 
@@ -549,7 +549,7 @@
             <Container class="Util.PictureBox" name="pictureBox7">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-schedule-50.png"/>
+                  <Image iconType="3" name="/Image/icons8-schedule-50.png"/>
                 </Property>
               </Properties>
 
@@ -604,7 +604,7 @@
             <Container class="Util.PictureBox" name="pictureBox8">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-notification-64.png"/>
+                  <Image iconType="3" name="/Image/icons8-notification-64.png"/>
                 </Property>
               </Properties>
 
@@ -659,7 +659,7 @@
             <Container class="Util.PictureBox" name="pictureBox9">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-event-48.png"/>
+                  <Image iconType="3" name="/Image/icons8-event-48.png"/>
                 </Property>
               </Properties>
 
@@ -714,7 +714,7 @@
             <Container class="Util.PictureBox" name="pictureBox10">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-bill-64.png"/>
+                  <Image iconType="3" name="/Image/icons8-bill-64.png"/>
                 </Property>
               </Properties>
 
@@ -796,7 +796,7 @@
             <Container class="Util.PictureBox" name="pictureBox11">
               <Properties>
                 <Property name="image" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/View/Admin/icons8-logout-64 (1).png"/>
+                  <Image iconType="3" name="/Image/icons8-logout-64 (1).png"/>
                 </Property>
               </Properties>
 
